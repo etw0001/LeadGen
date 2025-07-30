@@ -14,8 +14,8 @@ export function LeadGenerationForm() {
       {/* Header */}
       <div className="text-center space-y-2">
         <h1 className="text-4xl sm:text-5xl font-medium text-slate-12 tracking-[-0.025em]">LeadGen</h1>
-        <p className="text-base font-medium text-[rgb(119,123,132)] max-w-2xl tracking-[-0.05em]">
-          Find the best neighborhoods for your door-to-door marketing campaigns
+        <p className="text-base text-[rgb(119,123,132)] max-w-2-xl tracking-[-0.05em]">
+          Smarter local marketing starts here. Enter your business type and service area to find the best neighborhoods for lead generation.
         </p>
       </div>
     </div>
